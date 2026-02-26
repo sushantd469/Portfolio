@@ -65,8 +65,7 @@ export default function ContactPage() {
             Get In Touch
           </h1>
           <p className="text-gray-300 text-lg max-w-3xl mx-auto">
-            Have a project in mind or want to collaborate? I'd love to hear from
-            you. Let's create something amazing together!
+            “Got an idea or ready to collaborate? Let’s connect and create something extraordinary together.”
           </p>
         </motion.div>
 
@@ -90,10 +89,10 @@ export default function ContactPage() {
                   <div>
                     <p className="text-gray-400 text-sm">Email</p>
                     <a
-                      href="mailto:contact.niloybhowmick@gmail.com"
+                      href="mailto:contact.sushantdahal@gmail.com"
                       className="text-white hover:text-blue-400 transition-colors"
                     >
-                      contact.niloybhowmick@gmail.com
+                      contact.sushantdahal@gmail.com
                     </a>
                   </div>
                 </div>
@@ -105,12 +104,12 @@ export default function ContactPage() {
                   <div>
                     <p className="text-gray-400 text-sm">WhatsApp</p>
                     <a
-                      href="https://wa.me/+8801580385556"
+                      href="https://wa.me/+9779768799613"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-white hover:text-green-400 transition-colors"
                     >
-                      +88 (015) 803-85556
+                      +977 9768799613
                     </a>
                   </div>
                 </div>
@@ -292,7 +291,7 @@ export default function ContactPage() {
                 <p className="text-gray-400 text-sm text-center">
                   Prefer to chat directly? Reach out on{" "}
                   <a
-                    href="https://wa.me/+8801580385556"
+                    href="https://wa.me/+9779768799613"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-green-400 hover:text-green-300"
@@ -306,8 +305,8 @@ export default function ContactPage() {
           </motion.div>
         </div>
 
-        {/* FAQ Section */}
-        {/* <motion.div
+         FAQ Section 
+         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.6 }}
