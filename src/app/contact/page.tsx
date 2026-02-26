@@ -378,7 +378,7 @@ export default function ContactPage() {
               </div>
             </div>
           </GlassmorphismCard>
-        </motion.div> */}
+        </motion.div>
       </div>
     </div>
   );
