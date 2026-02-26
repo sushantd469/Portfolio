@@ -111,6 +111,7 @@
     font-feature-settings: "ss01", "ss02", "cv01", "cv02";
     -webkit-font-smoothing: antialiased;
     letter-spacing: -0.02em;
+    margin: 0;
     /* Tight tracking for premium feel */
   }
 }
