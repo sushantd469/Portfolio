@@ -68,12 +68,12 @@ export default function AboutPage() {
                       transition={{ delay: 0.2 }}
                       className="text-4xl md:text-6xl font-black text-white leading-tight tracking-tighter"
                     >
-                      NILOY<br />
-                      <span className="text-blue-500">BHOWMICK</span>
+                      SUSHANT<br />
+                      <span className="text-blue-500">DAHAL</span>
                     </motion.div>
                     <div className="h-1 w-16 md:w-20 bg-purple-500 mt-4 rounded-full" />
                     <p className="text-gray-300 mt-4 text-xs md:text-sm font-medium tracking-wide uppercase">
-                      Professional Video Editor & Motion Designer
+                      Professional Video Editor & Graphics Designer
                     </p>
                   </div>
                 </div>
@@ -96,7 +96,7 @@ export default function AboutPage() {
               header={
                 <div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-gradient-to-br from-black to-neutral-900 border border-white/10 flex flex-col items-center justify-center relative overflow-hidden group-hover:border-emerald-500/30 transition-colors py-8 md:py-0">
                   <div className="absolute inset-0 bg-emerald-500/5 blur-3xl rounded-full" />
-                  <span className="text-6xl md:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-b from-emerald-400 to-emerald-900 z-10">5+</span>
+                  <span className="text-6xl md:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-b from-emerald-400 to-emerald-900 z-10">1+</span>
                   <div className="text-emerald-500/50 text-xs font-mono uppercase tracking-[0.2em] z-10 mt-2">Years Active</div>
                 </div>
               }
@@ -151,7 +151,7 @@ export default function AboutPage() {
                 <div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-gradient-to-br from-neutral-900 to-black border border-white/5 p-6 flex items-center">
                   <Quote className="text-white/10 absolute top-4 right-4" size={48} />
                   <p className="text-gray-300 italic text-sm md:text-base leading-relaxed relative z-10">
-                    "I don't just cut footage; I construct feelings. Every frame must earn its place on the timeline, serving the narrative above all else."
+                    "“I don’t cut clips. I control emotions. If a frame doesn’t elevate the story, it doesn’t survive my timeline.”"
                   </p>
                 </div>
               }
